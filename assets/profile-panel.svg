@@ -1,0 +1,43 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="80" x2="1080" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#34D399" stop-opacity="0.95"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="1200" height="420" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="16"/>
+      <feGaussianBlur stdDeviation="24"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.01 0 0 0 0 0.06 0 0 0 0 0.17 0 0 0 0.35 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="420" rx="36" fill="url(#bg)"/>
+  <g filter="url(#shadow)">
+    <rect x="56" y="56" width="1088" height="308" rx="28" fill="#0B1120" fill-opacity="0.36" stroke="white" stroke-opacity="0.08"/>
+  </g>
+  <circle cx="1048" cy="100" r="56" fill="#22C55E" fill-opacity="0.18"/>
+  <circle cx="1062" cy="94" r="20" fill="#22C55E" fill-opacity="0.28"/>
+  <circle cx="164" cy="300" r="68" fill="#60A5FA" fill-opacity="0.16"/>
+  <path d="M92 248C149 182 234 153 332 158C425 162 501 201 589 211C676 221 760 190 836 155C915 118 1006 103 1108 134" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.95"/>
+  <path d="M92 282C149 216 234 187 332 192C425 196 501 235 589 245C676 255 760 224 836 189C915 152 1006 137 1108 168" stroke="#E5E7EB" stroke-opacity="0.16" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g>
+    <text x="112" y="116" fill="#E5E7EB" font-size="18" font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="4">PROFILE PANEL</text>
+    <text x="112" y="178" fill="#FFFFFF" font-size="54" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif">Build calm tools.</text>
+    <text x="112" y="228" fill="#CBD5E1" font-size="22" font-family="Inter, Segoe UI, Arial, sans-serif">Rust, Tauri, TypeScript, Vue, and desktop workflows.</text>
+  </g>
+  <g>
+    <rect x="112" y="268" width="154" height="54" rx="27" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.12"/>
+    <text x="149" y="302" fill="#FFFFFF" font-size="18" font-weight="600" font-family="Inter, Segoe UI, Arial, sans-serif">Desktop-first</text>
+    <rect x="282" y="268" width="154" height="54" rx="27" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.12"/>
+    <text x="319" y="302" fill="#FFFFFF" font-size="18" font-weight="600" font-family="Inter, Segoe UI, Arial, sans-serif">Low friction</text>
+    <rect x="452" y="268" width="172" height="54" rx="27" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.12"/>
+    <text x="487" y="302" fill="#FFFFFF" font-size="18" font-weight="600" font-family="Inter, Segoe UI, Arial, sans-serif">Practical UX</text>
+  </g>
+</svg>

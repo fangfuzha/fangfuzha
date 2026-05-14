@@ -64,10 +64,10 @@ I build practical software with a bias toward reliable desktop experiences, clea
   <img src="https://skillicons.dev/icons?i=rust,tauri,ts,vue,cpp,powershell,git,github" alt="tech stack" />
 </p>
 
-### Decorative Divider
+### Decorative Panel
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow divider" />
+  <img src="assets/profile-panel.svg" alt="profile panel" />
 </p>
 
 ### Current Interests
@@ -77,11 +77,11 @@ I build practical software with a bias toward reliable desktop experiences, clea
 - Local-first tooling and developer productivity
 - Small utilities that solve specific problems well
 
-### Stats
+### Find Me Here
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fangfuzha&show_icons=true&hide_border=true&theme=github_dark&title_color=60a5fa&icon_color=60a5fa&text_color=e5e7eb&bg_color=0d1117" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangfuzha&layout=compact&hide_border=true&theme=github_dark&title_color=60a5fa&text_color=e5e7eb&bg_color=0d1117" alt="top languages" />
+  <a href="https://github.com/fangfuzha?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20REPOS-0f172a?style=for-the-badge&logo=github" alt="view repos" /></a>
+  <a href="https://github.com/fangfuzha/fangfuzha"><img src="https://img.shields.io/badge/PROFILE%20SOURCE-1d4ed8?style=for-the-badge&logo=github" alt="profile source" /></a>
 </p>
 
 <p align="center">
